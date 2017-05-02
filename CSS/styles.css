@@ -18,6 +18,9 @@ p {
 a {
 	color:#FFF !important;
 }
+a:focus a:hover {
+	text-decoration:none;	
+}
 .navbar-inverse .navbar-nav>li>a {
 color: #9d9d9d !important;	
 }
@@ -150,7 +153,7 @@ section {
 }
 
 #section5 {
-	background:url(../imagenes/secc5_puntitos_head.png) center top no-repeat, -webkit-radial-gradient(#856887, #503652);
+	background:url(../imagenes/secc5_puntitos_head.png) center top no-repeat, -webkit-radial-gradient(#856887, #7a607b);
 	padding:0 !important;
 }
 #section6 {
@@ -304,7 +307,7 @@ section {
 	padding:35px 0 35px;
 }
 .sec1-ultimoboton {
-	padding-bottom:35px;
+	padding-bottom:90px;
 }
 .dgdescripcion {
 	padding:40px 0px;
@@ -512,7 +515,6 @@ section {
     font-size: 23px;
     text-align: justify;
     line-height: 1.6;
-    margin-top: 50px;
     padding: 0 45px 85px 45px;
     letter-spacing: 0.7px;
     margin:190px 0 0px 0 !important;
@@ -539,7 +541,7 @@ section {
 .textossecc4_3 {
 	text-align:right;
 	font-family: "CHALONEI";
-    font-size: 17px;
+    font-size: 14px;
 	line-height: 1.6;
 	letter-spacing: 0.7px;
 	margin: 100px 25px 0px;
@@ -787,7 +789,7 @@ section {
 	padding:75px 0px;
 }
 .videoWrapper2 {
-	padding:75px 0px;
+	padding:20px 0px 140px;
 }
 .btnsecc2_1 {
 		
@@ -1065,9 +1067,37 @@ and (max-width : 1281px) {
 .nav>li>a {
 	padding: 15px 10px !important;
 }
+
 }
 @media only screen 
-and (max-width : 1360px) {
+and (max-width : 1440px) { 
+.btnsecc3 {
+	margin-left:15% !important;
+}
+.btnsecc3-1 {
+	margin-right:15% !important;
+}
+.btnmvme-1 {
+	padding-left:15% !important;
+}
+.btnmvme-2 {
+	padding-right:15% !important;
+}
+img.pull-left.img-responsive.seccion-3-cartel {
+	width:50% !important;
+}
+.textossecc4 {
+	margin: 75px 0 0px 0 !important;
+}
+.secc3numero {
+	width:35% !important;
+}
+.textossecc4_3 {
+	margin: 35px 25px 0px;
+}
+}
+@media only screen 
+and (max-width : 1366px) {
 .btnsecc3 {
 		margin-left: 10% !important;
 }
@@ -1110,6 +1140,9 @@ and (max-width : 1360px) {
 }
 .sec4descripcion-enlaciudadv {
 	padding: 0px 128px 85px !important;
+}
+.textossecc4 {
+	padding: 0 45px 35px 45px;
 }
 }
 @media only screen 
