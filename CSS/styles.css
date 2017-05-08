@@ -362,8 +362,7 @@ section {
 	color:#d8d8d8 !important;
 }
 .btnsecc3 {
-	margin-left: 25% !important;
-    	margin-top: 85px;
+   	margin-top: 85px;
 	margin-bottom:85px;
 }
 .btnsecc3-1 {
@@ -408,7 +407,6 @@ section {
 	letter-spacing:1.7px;
 	white-space: normal !important;
 	text-align:center;
-	width: 420px !important;
 	margin:45px auto !important;
 }
 
@@ -436,7 +434,6 @@ section {
 	color:#d8d8d8 !important;
 }
 .btnmvme-1 {
-	padding-left:27%;
 }
 .btnmvme-2 {
 		margin:70px auto 60px;
@@ -1070,16 +1067,12 @@ and (max-width : 1281px) {
 @media only screen 
 and (max-width : 1440px) { 
 .btnsecc3 {
-	margin-left:15% !important;
 }
 .btnsecc3-1 {
-	margin-right:15% !important;
 }
 .btnmvme-1 {
-	padding-left:15% !important;
 }
 .btnmvme-2 {
-	padding-right:15% !important;
 }
 img.pull-left.img-responsive.seccion-3-cartel {
 	width:50% !important;
@@ -1097,10 +1090,8 @@ img.pull-left.img-responsive.seccion-3-cartel {
 @media only screen 
 and (max-width : 1366px) {
 .btnsecc3 {
-		margin-left: 10% !important;
 }
 .btnsecc3-1 {
-		margin-right: 10% !important;
 }
 .textosseccion2-img {
 	padding: 0px 0px 85px !important;	
@@ -1112,10 +1103,8 @@ and (max-width : 1366px) {
 	font-size:60px;
 }
 .btnmvme-1 {
-	padding-left:15% !important;
 }
 .btnmvme-2 {
-	padding-right:15% !important;
 }
 .subtitulosecc5 {
 	padding: 0px 128px 45px !important;
@@ -1382,12 +1371,10 @@ margin: 0 auto !important;
 	padding-bottom:20px;
 }
 .btnsecc3 {
-	margin: 20px 11% !important;	
-	width:320px !important;
+	width:280px !important;
 }
 .btnsecc3-1 {
-	margin: 20px 11% !important;	
-	width:320px !important;
+	width:280px !important;
 }
 .textosseccion4 {
 	padding: 0px 15px 35px !important;
@@ -1396,8 +1383,7 @@ margin: 0 auto !important;
 .btnmvme-1 {
 }
 .btnmvme-2 {
-	padding-right:0px !important;
-	margin:15px;
+	margin: 25px auto 20px;
 }
 .sec4descripcion-enlaciudadv {
 	font-size:15px;
