@@ -363,14 +363,12 @@ section {
 }
 .btnsecc3 {
 	margin-left: 25% !important;
-    
-    margin-top: 85px;
+    	margin-top: 85px;
 	margin-bottom:85px;
 }
 .btnsecc3-1 {
 	margin-right: 25% !important;
-    
-    margin-top: 85px;
+	margin-top: 85px;
 	margin-bottom:85px;
 }
 .btnsecc3_1 {
@@ -394,7 +392,7 @@ section {
 
 .btnsecc3_wraper {
 	margin: 0 auto;
-    text-align: center;
+    	text-align: center;
 	padding:0 60px;
 }
 .btnsecc3_2{
@@ -411,7 +409,7 @@ section {
 	white-space: normal !important;
 	text-align:center;
 	width: 420px !important;
-	margin:0 auto !improtant;
+	margin:0px auto !improtant;
 }
 
 .btnsecc3_2:hover {
