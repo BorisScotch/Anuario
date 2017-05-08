@@ -366,7 +366,6 @@ section {
 	margin-bottom:85px;
 }
 .btnsecc3-1 {
-	margin-right: 25% !important;
 	margin-top: 85px;
 	margin-bottom:85px;
 }
@@ -1067,8 +1066,10 @@ and (max-width : 1281px) {
 @media only screen 
 and (max-width : 1440px) { 
 .btnsecc3 {
+	margin:0px auto !important;
 }
 .btnsecc3-1 {
+	margin:0px auto !important;
 }
 .btnmvme-1 {
 }
@@ -1090,8 +1091,11 @@ img.pull-left.img-responsive.seccion-3-cartel {
 @media only screen 
 and (max-width : 1366px) {
 .btnsecc3 {
+		margin:0px auto !important;
 }
 .btnsecc3-1 {
+		margin:0px auto !important;
+
 }
 .textosseccion2-img {
 	padding: 0px 0px 85px !important;	
@@ -1372,9 +1376,12 @@ margin: 0 auto !important;
 }
 .btnsecc3 {
 	width:280px !important;
+		margin:0px auto !important;
 }
 .btnsecc3-1 {
 	width:280px !important;
+		margin:0px auto !important;
+
 }
 .textosseccion4 {
 	padding: 0px 15px 35px !important;
