@@ -3,6 +3,7 @@ body {
 	height: 100%;
 	overflow-x: hidden; 
 	width:100%
+		
 }
 p {
 	/*word-break: break-all;*/
@@ -368,7 +369,7 @@ section {
 }
 .btnsecc3-1 {
 	margin-right: 25% !important;
-    width: 420px !important;
+    
     margin-top: 85px;
 	margin-bottom:85px;
 }
