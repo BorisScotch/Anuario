@@ -362,7 +362,7 @@ section {
 }
 .btnsecc3 {
 	margin-left: 25% !important;
-    width: 420px !important;
+    
     margin-top: 85px;
 	margin-bottom:85px;
 }
@@ -406,10 +406,11 @@ section {
 	padding:15px;	
 	font-family:"CHALONEI" !important;
 	font-size:15px !important;
-	margin:0px !important;
 	letter-spacing:1.7px;
 	white-space: normal !important;
 	text-align:center;
+	width: 420px !important;
+	margin:0 auto !improtant;
 }
 
 .btnsecc3_2:hover {
