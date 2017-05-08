@@ -407,6 +407,7 @@ section {
 	white-space: normal !important;
 	text-align:center;
 	margin:45px auto !important;
+	width:400px;
 }
 
 .btnsecc3_2:hover {
@@ -1355,6 +1356,7 @@ font-size: 12px !important;
 }
 .btnsecc3_2 {
 	font-size: 12px !important;
+	width: 250px;
 }
 .btnsecc3edi {
     padding: 12px 20px !important;
